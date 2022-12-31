@@ -1,0 +1,41 @@
+{
+  "displayName": "Longroad Energy Management LLC",
+  "vidGridId":null,
+  "showVideo":false,
+  "jobs": [
+    {
+      "vidGridId": "xttoeIL0ezO1",
+      "showVideo": true,
+      "jobId": 13784,
+      "title": "Javascript Dev",
+      "companyName": "K5560",
+      "applyUrl": "https://recruiting.paylocity.com/recruiting/Jobs/Apply/13784/Automation-Inc/Javascript-Dev",
+      "createdUtc": "2019-08-07T17:53:20.817",
+      "publishedDate": "2019-08-07T17:53:36.787",
+      "description": "<p>Javascript Dev</p>",
+      "displayUrl": "https://recruiting.paylocity.com/recruiting/Jobs/Details/13784/Automation-Inc/Javascript-Dev",
+      "jobLocation": {
+        "name": "Test Office",
+        "address": "2850 N. Wilke Road",
+        "address2": null,
+        "city": "Arlington Heights",
+        "state": "IL",
+        "zip": "60004",
+        "metro": "Chicago",
+        "locationDisplayName": "Test Office"
+      },
+      "jobCode": "",
+      "listUrl": "https://recruiting.paylocity.com/recruiting/Jobs/List/96/Automation-Inc",
+      "requirements": "<p>Javascript Dev</p>",
+      "salaryDescription": "$75,000",
+      "hiringDepartment": "Development",
+      "jobTypes": "fulltime, parttime, temporary",
+      "jobTypesArray": [
+         "Full-time", 
+         "Part-time",
+         "Temporary"
+       ]
+    },
+    ...
+  ]
+}
